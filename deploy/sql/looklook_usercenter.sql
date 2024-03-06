@@ -14,6 +14,8 @@
  Date: 10/03/2022 17:14:49
 */
 
+use looklook_usercenter;
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 

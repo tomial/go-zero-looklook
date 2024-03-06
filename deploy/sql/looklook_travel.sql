@@ -14,6 +14,8 @@
  Date: 10/03/2022 17:14:28
 */
 
+use looklook_travel;
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 

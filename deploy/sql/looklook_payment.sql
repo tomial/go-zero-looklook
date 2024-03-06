@@ -14,6 +14,8 @@
  Date: 10/03/2022 17:14:12
 */
 
+use looklook_payment;
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
